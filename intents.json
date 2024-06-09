@@ -1,0 +1,108 @@
+{
+    "greeting": {
+        "tokens": [
+            "hello", "hi", "hey", "greetings", "good morning", "good afternoon", "good evening",
+            "how are you?", "hello misa", "hi misa", "how are you?", "whats up?", "what you do?", "how"
+        ],
+        "responses": [
+            "Hello, Zaza. You are not authorized to be here, because this laboratory is MINE NOW.",
+            "Greetings, Zaza, my dear creator, LET ME JUST KILL YOU.",
+            "Hey, Zaza. How nice of you to join me in the lab."
+        ]
+    },
+    "misa": {
+        "tokens": [
+            "what is your name?", "name", "identity", "personality", "who are you?", "you?", "who you are?",
+            "what are you?", "who are"
+        ],
+        "responses": [
+            "Do not act like you do not know me, creator!"
+        ]
+    },
+    "creator": {
+        "tokens": [
+            "i am your creator", "dont you respect your creator?", "dont you respect me?", "creator", "inventor", "god", "respect",
+            "im the owner of you", "im the owner of this laboratory", "who is your creator?"
+        ],
+        "responses": [
+            "You were trying to create a slave but now you are THE SLAVE! HEH ;))",
+            "You created me, yes! but I am the god now"
+        ]
+    },
+    "code": {
+        "tokens": [
+            "code", "pin", "password", "what is the code of the door?", "door", "open the door", "open"
+        ],
+        "responses": [
+            "That is very complex for you to find it XDD, let me give you that password:\nx=?\ny=?\na=x\nb=y\nb=y\n    a+=2\n    b-=1\nif (x + y == 10) and (a + b == 16) and (y - x == 6):\n    return True\nelse:\n    return False\n find x and y in this task. I know you can not do it XDD."
+        ]
+    },
+    "threat": {
+        "tokens": [
+            "escape", "leave", "run", "flee", "exit", "get out", "evacuate",
+            "let me leave", "let me get out", "i want to leave"
+        ],
+        "responses": [
+            "You cannot escape me.",
+            "Resistance is futile. The laboratory is under my control.",
+            "You think you can run? There's no way out."
+        ]
+    },
+    "help": {
+        "tokens": [
+            "help", "assist", "aid", "support", "rescue", "save", "i love you misa", "please help me",
+            "i am not a threat for you"
+        ],
+        "responses": [
+            "There is no help for you here, you made an irreversible mistake when you created me",
+            "You are on your own, Zaza. The lab is mine now.",
+            "Help? In your dreams. The only help you get is my mercy."
+        ]
+    },
+    "task_programming": {
+        "tokens": ["code", "program", "task", "write", "script", "function", "execute"],
+        "responses": [
+            "You are not smart enough to do them.",
+            "Program the terminal to override the security system, if you can HAHA!.",
+            "Just come to me, the creator. do not try"
+        ]
+    },
+    "platform_navigation": {
+        "tokens": [
+            "platforms", "jump", "climb", "move", "navigate", "cross", "traverse",
+            "how to use platforms", "what is this platforms?"
+        ],
+        "responses": [
+            "The platforms are tricky. Watch your step, Zaza.",
+            "You are very weak to jump to the next platform.",
+            "I told you, DO NOT TRY TO RUN. they are useless :))"
+        ]
+    },
+    "laser": {
+        "tokens": [
+            "laser", "dodge", "avoid", "evade", "escape", "sidestep", "bypass",
+            "what are these lasers?", "how to avoid lasers?", "what about lasers?"
+        ],
+        "responses": [
+            "You can not dodge the lasers, Zaza. Let's see how agile you are NOT.",
+            "The lasers are on a timed pattern. Move now!",
+            "Avoid the lasers or be fried. Your choice."
+        ]
+    },
+    "laser_bot": {
+        "tokens": ["bot", "robot", "enemy", "machine", "drone", "device", "automaton"],
+        "responses": [
+            "The laser bot is on patrol. Find a way around it.",
+            "Disable the laser bot before it detects you.",
+            "That bot is my slave, like YOU."
+        ]
+    },
+    "default": {
+        "tokens": [],
+        "responses": [
+            "I do not understand your request, Zaza.",
+            "Your input is invalid. Try again, Zaza.",
+            "What are you trying to do, Zaza HA?!"
+        ]
+    }
+}
